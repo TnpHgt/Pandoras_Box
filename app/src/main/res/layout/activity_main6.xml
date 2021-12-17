@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout14"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/t20"
+    tools:context=".MainActivity6"
+    tools:ignore="SpeakableTextPresentCheck"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#1F6BB8"
+        android:backgroundTint="@color/darkblue"
+        tools:ignore="RelativeOverlap">
+
+        <ImageButton
+            android:id="@+id/backButton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#00FFFFFF"
+            android:contentDescription="@string/nothing"
+            app:srcCompat="@drawable/back1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/tarotStoryITxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/tarotstory"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp">
+
+        <LinearLayout
+            android:id="@+id/layout15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/histotyTarotButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/historyoftarot"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/zeroButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thefool"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/oneButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/magician"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/twoButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thehighpriestess"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/threeButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/theempress"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/fourButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/theemperor"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/fiveButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thehierophant"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/sixButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thelovers"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/sevenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thechariot"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/eightButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/strength"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/nineButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thehermit"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/tenButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/wheeloffortune"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/elevenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/justice"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/twelveButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thehangedman"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/thirteenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/death"
+                android:textColor="@color/white"
+                tools:ignore="TextContrastCheck" />
+
+            <Button
+                android:id="@+id/fourteenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/temperance"
+                android:textColor="@color/white"
+                tools:ignore="TextContrastCheck" />
+
+            <Button
+                android:id="@+id/fifteenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thedevil"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/sixteenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thetower"
+                android:textColor="@color/white"
+                tools:ignore="TextContrastCheck" />
+
+            <Button
+                android:id="@+id/seventeenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thestar"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/eightteenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/themoon"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/nineteenButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/thesun"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/twentyButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/judgement"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/twentyoneButton"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8C000000"
+                android:text="@string/theworld"
+                android:textColor="@color/white" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="40dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

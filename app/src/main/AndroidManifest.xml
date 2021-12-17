@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pandoras_box_6209650115_6209650206">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.Pandoras_Box_6209650115_6209650206">
+
+        <activity
+            android:name=".guesscardlist"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".card_tarot"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".cardtarot"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Card_list"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Card"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity9"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".CardActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".god"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".god_list"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".GodActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity8"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity7"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity6"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity5"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Pandoras Box</string>
+    <string name="nothing"> </string>
+    <string name="start">เริ่มเกม</string>
+    <string name="quit">ออกจากเกม</string>
+    <string name="mainpage">หน้าหลัก</string>
+    <string name="tarotstory">ประวัติไพ่ทาโรต์</string>
+    <string name="storyoftarot">ตำนานไพ่ทาโรต์</string>
+    <string name="foretellcard">ทายไพ่ประจำตัว</string>
+    <string name="greekmyth">ตำนานเทพกรีก-โรมัน</string>
+    <string name="quizgame">เกมตอบคำถาม</string>
+    <string name="tarot">ไพ่ทาโรต์</string>
+    <string name="guesshisthecards">ผลลัพธ์ที่ได้จากการทำนาย</string>
+    <string name="selectyourdate">คลิกเพื่อเลือกวันเดือนปีเกิด</string>
+
+    <string name="historyoftarot">ประวัติความเป็นมา</string>
+    <string name="thefool">ไพ่ลำดับที่ 0 The Fool</string>
+    <string name="magician">ไพ่ลำดับที่ 1 The Magician</string>
+    <string name="thehighpriestess">ไพ่ลำดับที่ 2 The High Priestess</string>
+    <string name="theempress">ไพ่ลำดับที่ 3 The Empress</string>
+    <string name="theemperor">ไพ่ลำดับที่ 4 The Emperor</string>
+    <string name="thehierophant">ไพ่ลำดับที่ 5 The Hierophant</string>
+    <string name="thelovers">ไพ่ลำดับที่ 6 The Lovers</string>
+    <string name="thechariot">ไพ่ลำดับที่ 7 The Chariot</string>
+    <string name="strength">ไพ่ลำดับที่ 8 Strength</string>
+    <string name="thehermit">ไพ่ลำดับที่ 9 The Hermit</string>
+    <string name="wheeloffortune">ไพ่ลำดับที่ 10 Wheel of Fortune</string>
+    <string name="justice">ไพ่ลำดับที่ 11 Justice</string>
+    <string name="thehangedman">ไพ่ลำดับที่ 12 The Hanged Man</string>
+    <string name="death">ไพ่ลำดับที่ 13 Death</string>
+    <string name="temperance">ไพ่ลำดับที่ 14 Temperance</string>
+    <string name="thedevil">ไพ่ลำดับที่ 15 The Devil</string>
+    <string name="thetower">ไพ่ลำดับที่ 16 The Tower</string>
+    <string name="thestar">ไพ่ลำดับที่ 17 The Star</string>
+    <string name="themoon">ไพ่ลำดับที่ 18 The Moon</string>
+    <string name="thesun">ไพ่ลำดับที่ 19 The sun</string>
+    <string name="judgement">ไพ่ลำดับที่ 20 Judgement</string>
+    <string name="theworld">ไพ่ลำดับที่ 21 The World</string>
+
+    <string name="foretell">ทายไพ่</string>
+    <string name="yourbirthday">กรุณาใส่วันเดือนปีเกิดของคุณ</string>
+    <string name="yourcardis">ไพ่ประจำตัวของคุณ คือ</string>
+    <string name="reforetell">ทายไพ่อีกครั้ง</string>
+    <string name="backtomainpage">กลับหน้าหลัก</string>
+
+    <string name="playername">กรุณากรอกชื่อผู้เล่น</string>
+    <string name="name">ผู้เล่น</string>
+    <string name="replay">เล่นใหม่</string>
+    <string name="score">ผลคะแนน</string>
+    <string name="yourscoreis">คะแนนของคุณ คือ</string>
+    <string name="viewscore">ดูผลคะแนน</string>
+
+    <string name="history">ประวัติการเล่น</string>
+    <string name="player">ผู้เล่น</string>
+    <string name="yourscore">คะแนนที่ได้</string>
+
+    <string name="numQuestion">Number of Question</string>
+    <string name="question">Question</string>
+    <string name="option1">option 1</string>
+    <string name="option2">option 2</string>
+    <string name="option3">option 3</string>
+    <string name="option4">option 4</string>
+    <string name="button">Button</string>
+
+    <string name="tarotQuiz">คำถามไพ่ทาโรต์</string>
+    <string name="mythQuiz">คำถามตำนานเทพกรีก-โรมัน</string>
+    <string name="allQuiz">คำถามไพ่ทาโรต์และตำนานเทพกรีก-โรมัน</string>
+
+    <string name="roman_greek_mythology">ตำนานเทพกรีก-โรมัน</string>
+    <string name="dionysus">1.เทพไดโอนิซัส (Dionysus)</string>
+    <string name="hermes">2.เทพเฮอร์เมส (Hermes)</string>
+    <string name="demeter">3.เทพีดิมิเทอร์ (Demeter)</string>
+    <string name="zeus">4.เทพซุส (Zeus)</string>
+    <string name="cupid">5.คิวปิด(Cupid)</string>
+    <string name="ares">6.อาเรส (Ares)</string>
+    <string name="cronos">7.โครนัส (Cronos)</string>
+    <string name="athena">8.อาธีนา (Athena)</string>
+    <string name="apollo">9.อพอลโล (Apollo)</string>
+    <string name="artemis">10.อาร์เทมิส (Artemis)</string>
+    <string name="aphrodite">11.เทพีอโฟรไดท์ (Aphrodite)</string>
+    <string name="hera">12.เทพีเฮรา (Hera)</string>
+    <string name="hestia">13.เทพีเฮสเทีย (Hestia)</string>
+    <string name="poseidon">14.เทพโพไซดอน (Poseidon)</string>
+    <string name="odin">15.โอดิน (Odin)</string>
+    <string name="stvalentine">16.เซนต์วานเลนไทน์ (St Valentine)</string>
+    <string name="hades">17.เทพฮาเดส (Hades)</string>
+    <string name="pan">18.เทพแพน (Pan)</string>
+    <string name="nike">19.เทพีไนกี้ (Nike)</string>
+    <string name="hephaestus">20.เฮฟเฟสตัส (Hephaestus)</string>
+
+</resources>
